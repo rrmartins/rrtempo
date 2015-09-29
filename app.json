@@ -1,0 +1,11 @@
+{
+  "name": "rrtempo",
+  "description": "app test time of server",
+  "keywords": [
+    "rrmartins",
+    "go",
+    "sample",
+    "example"
+  ],
+  "image": "heroku/go:1.5",
+}
